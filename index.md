@@ -2,7 +2,7 @@
 
 **Effective Date: August 11, 2026**
 
-This Privacy Policy applies to the **River Crossing** mobile application (hereby referred to as the "Application"), created by **MasiloDev** (hereby referred to as the "Service Provider"). The Application is provided as a free service.
+This Privacy Policy applies to the **River Crossing** mobile application (hereby referred to as the "Application"), created by **Masilo.Dev** (hereby referred to as the "Service Provider"). The Application is provided as a free service.
 
 ## Information Collection and Use
 
@@ -84,6 +84,6 @@ When changes are made, the updated Privacy Policy will be posted at this locatio
 
 If you have any questions or concerns regarding this Privacy Policy or privacy practices relating to the Application, please contact:
 
-**MasiloDev**
+**Masilo.Dev**
 
 **Email:** [kopanangmasilo71@gmail.com](mailto:kopanangmasilo71@gmail.com)
